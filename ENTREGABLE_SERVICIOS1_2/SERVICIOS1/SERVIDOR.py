@@ -6,7 +6,7 @@ database = client["SocketServiciosBD"]
 clientes_collection = database["Sertvicios"]
 
 def procesar_trama(trama):
-    
+    #Esta es una prueba de github xd
     if len(trama) != 42:
         return "ERROR: La trama no tiene el formato correcto"
 
