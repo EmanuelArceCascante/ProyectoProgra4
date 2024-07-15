@@ -1,0 +1,51 @@
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.exe
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.dll
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.pdb
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.dll
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\refint\Servidor_Pagos.dll
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.pdb
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\ref\Servidor_Pagos.dll
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Documentos\Curso de VB\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.csproj.CopyComplete
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.exe
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.deps.json
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.runtimeconfig.json
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.dll
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.pdb
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.csproj.AssemblyReference.cache
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.AssemblyInfoInputs.cache
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.AssemblyInfo.cs
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.csproj.CoreCompileInputs.cache
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor.44AFD9B2.Up2Date
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.dll
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\refint\Servidor_Pagos.dll
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.pdb
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.genruntimeconfig.cache
+D:\.Proyecto1PrograIV\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\ref\Servidor_Pagos.dll
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.exe
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.deps.json
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.runtimeconfig.json
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.dll
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Servidor_Pagos.pdb
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.csproj.AssemblyReference.cache
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.AssemblyInfoInputs.cache
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.AssemblyInfo.cs
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.csproj.CoreCompileInputs.cache
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor.44AFD9B2.Up2Date
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.dll
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\refint\Servidor_Pagos.dll
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.pdb
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\Servidor_Pagos.genruntimeconfig.cache
+D:\.Proyecto1PrograIV\Entregable1ProyectoProgramacion4\SocketPagos\Servidor_Pagos\Servidor_Pagos\obj\Debug\net7.0\ref\Servidor_Pagos.dll
